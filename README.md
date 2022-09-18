@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali ABBAS</h1>
-<h3 align="center">étudiant, en 2ème année de Coding & Digital Innovation à l'IIM Digital School Paris</h3>
+<h3 align="center">Étudiant, en 2ème année de Coding & Digital Innovation à l'IIM Digital School Paris</h3>
 
 - 🔭 I’m currently working on **.....**
 
