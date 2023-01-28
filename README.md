@@ -4,9 +4,10 @@
 - 🔭 I’m currently working on **.....**
 
 - 🌱 I’m currently learning **Programmation**
+- <a href="https://www.flaticon.com/free-icons/passion" title="passion icons">Passion icons created by Freepik - Flaticon</a> 
 
 - 👯 I’m looking to collaborate on **.....**
-<a href="https://www.flaticon.com/free-icons/passion" title="passion icons">Passion icons created by Freepik - Flaticon</a> 
+
 - 🤝 I’m looking for help with **.....**
 
 - 📫 How to reach me **ali.ibra.abbas@gmail.com**
