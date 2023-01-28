@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Programmation**
 
 - 👯 I’m looking to collaborate on **.....**
-
+<a href="https://www.flaticon.com/free-icons/passion" title="passion icons">Passion icons created by Freepik - Flaticon</a> 
 - 🤝 I’m looking for help with **.....**
 
 - 📫 How to reach me **ali.ibra.abbas@gmail.com**
