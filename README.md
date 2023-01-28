@@ -1,4 +1,7 @@
-<h1> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Abbas </h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Abbas
+=================================================================================================================================
+
+* ✉️  You can contact me at [ali.ibra.abbas@gmail.com](mailto:ali.ibra.abbas@gmail.com)
 <h3 align="center">Étudiant, en 2ème année de Coding & Digital Innovation à l'IIM Digital School Paris</h3>
 
 - 🔭 I’m currently working on **.....**
